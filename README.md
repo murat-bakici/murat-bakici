@@ -1,16 +1,13 @@
-### Hi there 👋
+# 🔔Hey, ich bin Murat
 
-<!--
-**murat-bakici/murat-bakici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich brenne für die Programmierung und habe ein starkes Interesse für die Bereiche 3D-Modellierung sowie Videoschnitt.
 
-Here are some ideas to get you started:
+## 📚Kenntnisse
+ **Erweiterte Grundkenntnisse:** `Java` `MySQL`
+ 
+ **Grundkenntnisse:** `HTML` `CSS` `PHP` `PowerShell`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐Kontakt
+
+- [Xing](https://www.xing.com/profile/Murat_Bakici055157/)
+- [E-Mail](mailto:murat.bakici@outlook.de)
