@@ -1,6 +1,8 @@
 # 🔔Hey, ich bin Murat
 
-Ich brenne für die Programmierung und habe ein starkes Interesse für die Bereiche 3D-Modellierung sowie Videoschnitt.
+Aktuell mache ich eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung im Berufsförderungswerk Berlin-Brandenburg e.V. in Mühlenbeck.
+Wenn ich nicht grade an einem meiner Projekte schraube verbringe ich meine Zeit gerne mit meiner Familie oder mit Freunden.
+Ich brenne für die Programmierung und habe ein starkes Interesse in den Bereichen 3D-Modellierung sowie Videoschnitt.
 
 ## 📚Kenntnisse
  **Erweiterte Grundkenntnisse:** `Java` `MySQL`
